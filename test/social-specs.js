@@ -2,7 +2,7 @@ const { expect } = require('chai');
 
 const SocialNetwork = require("../social.js");
 
-describe ('Tree practice', function () {
+describe ('Social graph practice', function () {
 
   let socialNetwork;
 
