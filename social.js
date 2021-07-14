@@ -4,6 +4,7 @@ class SocialNetwork {
   constructor() {
     this.users = {};
     this.follows = {};
+    this.currentID = 0;
   }
 
   addUser(name) {
